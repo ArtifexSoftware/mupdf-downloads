@@ -1,4 +1,4 @@
-# mupdf 0.7
+# mupdf 0.8
 
 See:
 https://mupdf.com/download/
