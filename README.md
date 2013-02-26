@@ -1,7 +1,7 @@
-# mupdf 1.1
+# mupdf 1.2
 
 See:
-https://mupdf.com/download/
+https://mupdf.com/downloads/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
