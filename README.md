@@ -1,4 +1,4 @@
-# mupdf 1.9
+# mupdf 1.9a
 
 See:
 https://mupdf.com/downloads/
