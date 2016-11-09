@@ -1,7 +1,7 @@
-# mupdf 1.9a
+# mupdf 1.10-rc1
 
 See:
-https://mupdf.com/downloads/
+https://mupdf.com/downlaods/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
