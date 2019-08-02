@@ -1,4 +1,4 @@
-# mupdf 1.16.0
+# mupdf 1.16.1
 
 See:
 https://mupdf.com/downlaods/
