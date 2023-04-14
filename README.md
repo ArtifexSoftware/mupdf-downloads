@@ -1,4 +1,4 @@
-# mupdf 1.22.0-rc1
+# mupdf 1.22.0
 
 See:
 http://mupdf.com/releases/
