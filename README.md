@@ -1,10 +1,10 @@
-# mupdf 1.26.11
+# mupdf 1.26.12
 
 See:
 https://mupdf.com/releases?product=MuPDF
 
 Documentation:
-https://mupdf.readthedocs.io/en/1.26.11/
+https://mupdf.readthedocs.io/en/1.26.12/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
