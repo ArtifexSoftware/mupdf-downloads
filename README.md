@@ -1,4 +1,4 @@
-# mupdf 1.28.0-rc1
+# mupdf 1.28.0-rc2
 
 See:
 https://mupdf.com/releases?product=MuPDF
