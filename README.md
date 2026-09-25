@@ -1,10 +1,10 @@
-# mupdf 1.28.4
+# mupdf 1.28.5
 
 See:
 https://mupdf.com/releases?product=MuPDF
 
 Documentation:
-https://mupdf.readthedocs.io/en/1.28.4/
+https://mupdf.readthedocs.io/en/1.28.5/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
